@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+James+Maina+%F0%9F%91%8B;Backend+Developer;Cybersecurity+Enthusiast;Networking+Engineer;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+James+Maina+%F0%9F%91%8B;Backend+Developer;Networking+Engineer;Always+Learning+%26+Building" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/jim-maina?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/jim-maina)
 [![Profile views](https://komarev.com/ghpvc/?username=jim-maina&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/jim-maina)
@@ -12,7 +12,7 @@
 
 I’m **James Maina**, a developer focused on building reliable systems and understanding how technology works from the network to the application layer.
 
-- ⚙️ Interested in **backend development**, **networking**, and **cybersecurity**
+- ⚙️ Interested in **backend development**, **networking**
 - 🧠 Always learning, testing, and improving
 - 🚀 Passionate about solving practical problems through code
 - 🤝 Open to collaboration on meaningful open-source projects
